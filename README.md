@@ -8,21 +8,23 @@ Most of comments are in Chinese, so there will be many unrecognized characters.
 
 # Two Demos
 Google maps:
-<figure class="third">
-    <img src="http://xxx.jpg">
-    <img src="http://yyy.jpg">
-    <img src="http://zzz.jpg">
+<figure class="half">
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/Atlantic.png" width="300">
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/asia.png" width="300">
 </figure>
+
+<center>
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/maps.png" title="maps" width="100" /> 
+</center>
 
 
 Italy:
 <figure class="third">
-    <img src="http://xxx.jpg">
-    <img src="http://yyy.jpg">
-    <img src="http://zzz.jpg">
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/1.png">
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/3.png">
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/5.png">
 </figure>
-<figure class="third">
-    <img src="http://xxx.jpg">
-    <img src="http://yyy.jpg">
-    <img src="http://zzz.jpg">
-</figure>
+
+<center>
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/Italy.png" title="Italy" width="100" /> 
+</center>
