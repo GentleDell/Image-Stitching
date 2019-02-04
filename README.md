@@ -14,17 +14,17 @@ Google maps:
 </figure>
 
 <center>
-    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/maps.png" title="maps" width="100" /> 
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/maps.png" title="maps" width="500" /> 
 </center>
 
 
 Italy:
 <figure class="third">
-    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/1.png">
-    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/3.png">
-    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/5.png">
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/1.png" width="300">
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/3.png" width="300">
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/5.png" width="300">
 </figure>
 
 <center>
-    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/Italy.png" title="Italy" width="100" /> 
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/Italy.png" title="Italy" width="500" /> 
 </center>
