@@ -5,3 +5,24 @@ The Main_Panorama_Image.m is the main function and you can set the path of image
 If you would like to use SIFT algorithm, don't forget to add the ‘official_sift_lib’ to the current directory of Matlab.
 
 Most of comments are in Chinese, so there will be many unrecognized characters.  
+
+# Two Demos
+Google maps:
+<figure class="third">
+    <img src="http://xxx.jpg">
+    <img src="http://yyy.jpg">
+    <img src="http://zzz.jpg">
+</figure>
+
+
+Italy:
+<figure class="third">
+    <img src="http://xxx.jpg">
+    <img src="http://yyy.jpg">
+    <img src="http://zzz.jpg">
+</figure>
+<figure class="third">
+    <img src="http://xxx.jpg">
+    <img src="http://yyy.jpg">
+    <img src="http://zzz.jpg">
+</figure>
