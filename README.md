@@ -8,11 +8,9 @@ Most of comments are in Chinese, so there will be many unrecognized characters.
 
 # Two Demos
 Google maps:
-<figure class="half">
-    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/Atlantic.png" width="300">
-    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/asia.png" width="300">
-</figure>
-
+Atlantic            |  Asia
+:-------------------------:|:-------------------------:
+![](https://github.com/GentleDell/Image-Stitching/blob/master/demos/Atlantic.png)  |  ![](https://github.com/GentleDell/Image-Stitching/blob/master/demos/asia.png)
 <center>
     <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/maps.png" title="maps" width="600" /> 
 </center>
