@@ -9,11 +9,11 @@ Most of comments are in Chinese, so there will be many unrecognized characters.
 # Two Demos
 Google maps:
 <p float="left">
-  <img src="/github.com/GentleDell/Image-Stitching/blob/master/demos/Atlantic.png" width="300" />
-  <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/maps.png" width="300" /> 
+  <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/Atlantic.png" width="300" />
+  <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/asia.png" width="300" /> 
 </p>
 <center>
-    <img src="" title="maps" width="600" /> 
+    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/maps.png" title="maps" width="600" /> 
 </center>
 
 
