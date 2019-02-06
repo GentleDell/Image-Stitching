@@ -9,8 +9,8 @@ Most of comments are in Chinese, so there will be many unrecognized characters.
 # Two Demos
 Google maps:
 <p float="left">
-  <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/Atlantic.png" width="300" />
-  <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/asia.png" width="300" /> 
+  <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/Atlantic.png" width="400" />
+  <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/asia.png" width="450" /> 
 </p>
 <center>
     <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/maps.png" title="maps" width="600" /> 
@@ -18,15 +18,16 @@ Google maps:
 
 
 Italy:
-<figure class="third">
-    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/1.png" width="300">
-    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/2.png" width="300">
-    <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/3.png" width="300">
-</figure>
-<figure class="half">
+<p float="left">
+  <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/1.png" width="300">
+  <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/2.png" width="300">
+  <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/3.png" width="300">
+</p>
+
+<p float="left">
     <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/4.png" width="300">
     <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/5.png" width="300">
-</figure>
+</p>
 
 <center>
     <img src="https://github.com/GentleDell/Image-Stitching/blob/master/demos/Italy.png" title="Italy" width="800" /> 
